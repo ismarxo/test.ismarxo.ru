@@ -6,7 +6,7 @@ class App
 {
 	public function __construct()
 	{
-		echo 'construct app!';
+		echo 'construct app!'.PHP_EOL;
 	}
 
 	use start;
